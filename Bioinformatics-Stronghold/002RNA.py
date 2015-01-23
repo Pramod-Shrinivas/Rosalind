@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/python
 '''
 Problem Title: Transcribing DNA into RNA
 Problem ID: RNA
