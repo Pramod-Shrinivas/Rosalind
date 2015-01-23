@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/python
 '''
 Problem Title: Complementing a Strand of DNA
 Problem ID: REVC
